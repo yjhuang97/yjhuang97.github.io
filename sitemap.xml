@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yjhuang97.github.io/post/blognew/</loc>
-    <lastmod>2019-09-17T17:54:05+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yjhuang97.github.io/</loc>
-    <lastmod>2019-09-17T17:54:05+08:00</lastmod>
+    <lastmod>2019-09-17T19:55:26+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://yjhuang97.github.io/post/</loc>
+    <lastmod>2019-09-17T19:55:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjhuang97.github.io/post/test/</loc>
+    <lastmod>2019-09-17T19:55:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjhuang97.github.io/post/blognew/</loc>
     <lastmod>2019-09-17T17:54:05+08:00</lastmod>
   </url>
   
