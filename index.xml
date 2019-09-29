@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HYJ blog</title>
-    <link>https://yjhuang97.github.io/</link>
+    <link>https://yingjiehuang97.github.io/</link>
     <description>Recent content on HYJ blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2019 19:55:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2019 20:54:09 +0800</lastBuildDate>
     
-	<atom:link href="https://yjhuang97.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yingjiehuang97.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>百度网盘极速下载</title>
+      <link>https://yingjiehuang97.github.io/post/baidu/</link>
+      <pubDate>Sun, 29 Sep 2019 20:54:09 +0800</pubDate>
+      
+      <guid>https://yingjiehuang97.github.io/post/baidu/</guid>
+      <description>给大家分享一个百度网盘破解版，贼好用，先上效果图。 一、首先去网站（https://github.com/b3log/baidu-netdisk-downloaderx/releases?utm_source=hacpai.com）下载软件，选择windows，支持32位操作系统。
+二、在Google浏览器登录百度网盘，按”F12“，获取 BDUSS 值（注意拷贝完整） 具体细节可以百度”如何获取百度网盘BDUSS“ 三、登录成功后显示主界面，选择需要下载的文件后点击下载即可。
+最后，感谢BND（Baidu Netdisk Downloader）的开发人员~~</description>
+    </item>
+    
+    <item>
       <title>Test</title>
-      <link>https://yjhuang97.github.io/post/test/</link>
+      <link>https://yingjiehuang97.github.io/post/test/</link>
       <pubDate>Tue, 17 Sep 2019 19:55:26 +0800</pubDate>
       
-      <guid>https://yjhuang97.github.io/post/test/</guid>
+      <guid>https://yingjiehuang97.github.io/post/test/</guid>
       <description>大家好，
 这是我的第二篇个人博客
 我只是测验一下
@@ -27,10 +38,10 @@
     
     <item>
       <title>Blognew</title>
-      <link>https://yjhuang97.github.io/post/blognew/</link>
+      <link>https://yingjiehuang97.github.io/post/blognew/</link>
       <pubDate>Tue, 17 Sep 2019 17:54:05 +0800</pubDate>
       
-      <guid>https://yjhuang97.github.io/post/blognew/</guid>
+      <guid>https://yingjiehuang97.github.io/post/blognew/</guid>
       <description>Hello World!!
 这是我人生中第一个个人博客！
 我非常激动
